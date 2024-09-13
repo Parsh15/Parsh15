@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parsh15
-- 👀 I’m interested in ml and deep learninh 
+- 👀 I’m interested in ml and deep learning
 - 🌱 I’m currently learning GAN Models
 - I'm ready to collaborate on making parking system integrated with ai
 - 📫 You can reach me on insta   ~tonight_gamer_parshu
